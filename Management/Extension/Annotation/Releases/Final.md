@@ -1,0 +1,35 @@
+# Final
+
+> Final 版本，与 V1 对齐
+
+## 变更说明
+
+- 智能体标注页面初版发布，基于 React + Vite + Tailwind 构建
+- 实现扩展中心下智能体标注模块的核心页面布局与交互
+
+## 交互优化
+
+- 初版发布，建立基础交互框架
+
+## 组件复用
+
+- ConsoleLayoutLight：浅色控制台整体布局
+- TopNavLight / SideNavLight：导航组件
+- PageContentWrapper：页面内容区容器
+- GuideSteps：新手引导步骤组件
+
+## 文件清单
+
+- `Management/Extension/Annotation/Final/index.html` — 页面入口
+- `Management/Extension/Annotation/Final/assets/` — JS/CSS 构建产物
+- `Management/Extension/Annotation/Final/icon/` — 图标资源
+- `Management/Extension/Annotation/Final/favicon.svg` — 站点图标
+- `Management/Extension/Annotation/Final/extension-center-hero.webp` — 扩展中心主图
+
+## 变更日期
+
+2026-06-04
+
+## 变更人
+
+瑞瑞
