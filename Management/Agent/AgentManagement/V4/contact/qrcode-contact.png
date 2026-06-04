@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/TCCC-Management-Platform/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>tccc-agent-templates</title>
+    <script type="module" crossorigin src="/TCCC-Management-Platform/assets/index-CGW3S1qU.js"></script>
+    <link rel="stylesheet" crossorigin href="/TCCC-Management-Platform/assets/index-A_BqJ7Rw.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
